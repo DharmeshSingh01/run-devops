@@ -7,7 +7,7 @@ namespace Shopping.Client.Data
         public static readonly List<Product> Products = new()
         {
             new Product ()
-            {       Id = 1,
+            {       
                     Name = "IPhone X",
                     Description = "This phone is the company's biggest change to its flagship smartphone in years. It includes a borderless.",
                     ImageFile = "product-1.png",
